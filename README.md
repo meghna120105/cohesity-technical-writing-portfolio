@@ -2,8 +2,6 @@
 
 A beginner-friendly portfolio built to demonstrate technical writing, Python scripting, and Generative AI fundamentals for a **Technical Writing + Generative AI internship**.
 
-> **Project status:** Work in progress. Items in the status table below are marked as complete only after I have written, run, and tested them myself.
-
 ---
 
 ## About Me
